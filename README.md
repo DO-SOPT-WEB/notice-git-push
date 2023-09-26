@@ -1,4 +1,4 @@
-![image](https://github.com/DO-SOPT-WEB/notice-git-push/assets/97084864/3723ad65-63b6-4533-8c14-f0575edd3a19)# 🌱 웹파트 Github로 과제를 제출해봅시다 🌱
+# 🌱 웹파트 Github로 과제를 제출해봅시다 🌱
 
 ## 1️⃣ Github Organiztion 방문
 
